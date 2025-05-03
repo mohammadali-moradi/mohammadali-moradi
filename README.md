@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">Welcome, I`m happy to see you here.</h2>
+<h2 align="left">Welcome, I`m happy to see you here.</h2>
 
 # 💫 About Me:
 🌱 I’m currently learning Nextjs<br>
